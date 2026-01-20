@@ -1,7 +1,5 @@
 # mk’s cams (by graispect)
 
-https://apps.apple.com/us/app/mks-cams/id6755384547
-
 an ios film camera app with custom lenses, glitch filters, and  
 a minimal interface inspired by old disposable cameras.
 
@@ -31,6 +29,14 @@ swift, swiftui
 core image  
 avfoundation  
 procreate  
+
+## links
+- app store: https://apps.apple.com/us/app/mks-cams/id6755384547
+- website: https://graispect.com
+- privacy: https://graispect.com/privacy
+- terms: https://graispect.com/terms
+- support: https://graispect.com/support
+
 
 
 peace, 
